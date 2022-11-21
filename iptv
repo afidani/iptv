@@ -1,9 +1,8 @@
 #EXTINF:-1,~ Argentina ~
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/102018/untitled-1_0.png?NFaO.vJrgNnkwedu6ra2KlUuw6kZbwAY&itok=3GXHkvnB" group-title="ARGENTINA", TYC Sports https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-original-577x577/s3/102018/untitled-1_0.png?NFaO.vJrgNnkwedu6ra2KlUuw6kZbwAY&itok=3GXHkvnB" group-title="ARGENTINA", TYC Sports 
+https://d3awnlgqz0szay.cloudfront.net:443/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/400px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="ARGENTINA", TV Publica
 https://cntlnk-main-edge-access.secure.footprint.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_360p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/u6UOgvd.png" group-title="ARGENTINA", [COLOR red]ARGENTINA[/COLOR]
-http://127.0.0.1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m504ZL8.png" group-title="ARGENTINA", Canal 26 | HD
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1gwf0xO.png" group-title="ARGENTINA", Canal 4 Jujuy | HD
